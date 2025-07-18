@@ -1,7 +1,6 @@
 'use client';
 
 import { useProducts } from '@/contexts/ProductContext';
-import { ProductCard } from '@/components/ProductCard';
 import { Loader2 } from 'lucide-react';
 
 export function ProductGrid() {
