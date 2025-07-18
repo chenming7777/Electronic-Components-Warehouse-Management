@@ -1,4 +1,4 @@
-# ElectroStock Pro 🔌
+<img width="1917" height="895" alt="Screenshot 2025-07-18 202557" src="https://github.com/user-attachments/assets/e17b7fe8-f17d-4fe6-a114-eaba851e2b05" /># ElectroStock Pro 🔌
 
 **Modern Electronic Components Warehouse Management System**
 
@@ -132,7 +132,7 @@ The system includes pre-populated mock data with common electronic components:
 ## 🎨 Screenshots
 
 ### Admin Dashboard
-![Admin Dashboard](tes)
+![Admin Dashboard](<img width="1917" height="895" alt="Screenshot 2025-07-18 202557" src="https://github.com/user-attachments/assets/1e9af8e8-38d8-4efe-88f2-b833f08a82ef" />)
 
 ### Vending Machine Interface
 ![Vending Machine](https://via.placeholder.com/800x400/059669/ffffff?text=Vending+Machine+Interface)
