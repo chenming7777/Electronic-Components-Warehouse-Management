@@ -1,4 +1,4 @@
-**Modern Electronic Components Warehouse Management System**
+# Modern Electronic Components Warehouse Management System
 
 A comprehensive inventory management solution designed specifically for electronic components warehouses, featuring dual-mode access for administrators and end-users with an intuitive vending machine interface.
 
