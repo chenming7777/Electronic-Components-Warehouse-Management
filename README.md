@@ -130,19 +130,19 @@ The system includes pre-populated mock data with common electronic components:
 ## 🎨 Screenshots
 
 ### Admin Dashboard
-![Admin Dashboard] <img width="1917" height="895" alt="Screenshot 2025-07-18 202557" src="https://github.com/user-attachments/assets/e17b7fe8-f17d-4fe6-a114-eaba851e2b05" />
+<img width="1917" height="895" alt="Admin Dashboard" src="https://github.com/user-attachments/assets/e17b7fe8-f17d-4fe6-a114-eaba851e2b05" />
 
 ### Vending Machine Interface
-![Vending Machine] <img width="1901" height="887" alt="Screenshot 2025-07-18 203429" src="https://github.com/user-attachments/assets/05bb61a5-9490-4f3b-8a6d-996cbf0c1339" />
+<img width="1901" height="887" alt="Vending Machine Interface" src="https://github.com/user-attachments/assets/05bb61a5-9490-4f3b-8a6d-996cbf0c1339" />
 
 ### Component Management
-![Component Management] <img width="1336" height="832" alt="Screenshot 2025-07-18 203458" src="https://github.com/user-attachments/assets/693a8227-2928-49cd-8274-f32fc8047d7a" />
+<img width="1336" height="832" alt="Component Management" src="https://github.com/user-attachments/assets/693a8227-2928-49cd-8274-f32fc8047d7a" />
 
 ### Order Requisition
-![Order Requisition] <img width="1350" height="849" alt="Screenshot 2025-07-18 203447" src="https://github.com/user-attachments/assets/20dd4d4c-bc1b-45c2-995c-b8ac76e4595c" />
+<img width="1350" height="849" alt="Order Requisition" src="https://github.com/user-attachments/assets/20dd4d4c-bc1b-45c2-995c-b8ac76e4595c" />
 
-### Quantity Threshold Setting
-![Quantity Threshold Setting] <img width="1338" height="724" alt="Screenshot 2025-07-18 203451" src="https://github.com/user-attachments/assets/e865ca5d-f065-456f-9f45-9f4c1a6c96c9" />
+### Electrical Component Quantity Threshold Setting
+<img width="1338" height="724" alt="Quantity Threshold Setting" src="https://github.com/user-attachments/assets/e865ca5d-f065-456f-9f45-9f4c1a6c96c9" />
 
 
 ## 🔮 Future Enhancements
