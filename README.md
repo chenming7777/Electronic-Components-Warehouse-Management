@@ -132,7 +132,7 @@ The system includes pre-populated mock data with common electronic components:
 ## 🎨 Screenshots
 
 ### Admin Dashboard
-![Admin Dashboard](https://via.placeholder.com/800x400/1e293b/ffffff?text=Admin+Dashboard)
+![Admin Dashboard](tes)
 
 ### Vending Machine Interface
 ![Vending Machine](https://via.placeholder.com/800x400/059669/ffffff?text=Vending+Machine+Interface)
@@ -163,18 +163,6 @@ The system includes pre-populated mock data with common electronic components:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🎯 Project Status
-
-**Current Version**: 1.0.0
-**Status**: Production Ready
-**Last Updated**: December 2024
-
-## 📞 Support
-
-For questions, suggestions, or issues:
-- Open an issue on GitHub
-- Email: support@electrostock-pro.com
-- Documentation: [Wiki](https://github.com/yourusername/electrostock-pro/wiki)
 
 ---
 
