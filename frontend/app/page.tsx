@@ -5,6 +5,7 @@ import { Dashboard } from '@/components/features/dashboard/Dashboard';
 import { InventoryManager } from '@/components/features/inventory/InventoryManager';
 import { StockAlerts } from '@/components/features/alerts/StockAlerts';
 import { RequisitionManager } from '@/components/features/requisition/RequisitionManager';
+import { UserRequisitions } from '@/components/features/requisition/UserRequisitions';
 import { VendingMachine } from '@/components/features/vending/VendingMachine';
 import { ProductProvider } from '@/contexts/ProductContext';
 import { AlertProvider } from '@/contexts/AlertContext';
@@ -99,13 +100,30 @@ function MainContent() {
               </TabsContent>
             </Tabs>
           ) : (
-            <div className="space-y-4">
-              <div className="flex items-center gap-2 mb-6">
-                <ShoppingCart className="w-5 h-5 text-green-400" />
-                <h2 className="text-xl font-semibold text-white">Component Vending System</h2>
-              </div>
-              <VendingMachine />
-            </div>
+            <Tabs defaultValue="vending" className="w-full">
+              <TabsList className="grid w-full grid-cols-2 bg-slate-800/50 border-slate-700">
+                <TabsTrigger value="vending" className="flex items-center gap-2">
+                  <ShoppingCart className="w-4 h-4" />
+                  Vending Machine
+                </TabsTrigger>
+                <TabsTrigger value="requisitions" className="flex items-center gap-2">
+                  <FileText className="w-4 h-4" />
+                  My Requests
+                </TabsTrigger>
+              </TabsList>
+
+              <TabsContent value="vending" className="mt-6">
+                <div className="flex items-center gap-2 mb-6">
+                  <ShoppingCart className="w-5 h-5 text-green-400" />
+                  <h2 className="text-xl font-semibold text-white">Component Vending System</h2>
+                </div>
+                <VendingMachine />
+              </TabsContent>
+
+              <TabsContent value="requisitions" className="mt-6">
+                <UserRequisitions />
+              </TabsContent>
+            </Tabs>
           )}
         </div>
       </div>
